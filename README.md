@@ -1,4 +1,4 @@
 # testingNode.js
 
 
-This cointains basics of Node.js
+This contains basics of Node.js
